@@ -2,8 +2,8 @@
 //  NewCell.h
 //  Dictionary
 //
-//  Created by feng liu on 11-1-15.
-//  Copyright 2011 __MyCompanyName__. All rights reserved.
+//  Created by ioschen on 8/16/13.
+//  Copyright (c) 2013 ioschen. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
